@@ -1,0 +1,8 @@
+{
+    "name": "gctools-hackathon-ircc/gc_fedsearch_gsa",
+    "type": "elgg-plugin",
+    "require": {
+        "composer/installers": ">=1.0.8"
+    },
+    "license": "CC-BY-3.0"
+}
